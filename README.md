@@ -50,10 +50,10 @@
     </div>
    <div class="pogi">
         <img src="C:\Users\DIRK\Downloads\th (1).jpg">
-        <img src="C:\Users\DIRK\Desktop\Github Portfolio\457422784_1182391752876584_4146896408851820312_n.jpg">
-        <img src="C:\Users\DIRK\Desktop\Github Portfolio\458464154_530315806036760_4271058015887137538_n.jpg">
-        <img src="C:\Users\DIRK\Desktop\Github Portfolio\458498428_1475435146307420_1095839169639995395_n.jpg">
-        <img src="C:\Users\DIRK\Desktop\Github Portfolio\457727021_1653521728552859_6117808892471563202_n.jpg">
+        <img src="C:\Users\DIRK\Downloads\5bbc7f11-5644-4524-8b7d-f6a285a5a0db.jpg">
+        <img src="C:\Users\DIRK\Downloads\e503df9c-4822-4265-b9b1-da9db8348fd3.jpg">
+        <img src="C:\Users\DIRK\Downloads\d35ee6ce-18c6-449d-aa22-ea5b9d3bf4d3.jpg">
+        <img src="C:\Users\DIRK\Downloads\b8e12153-0b2c-4ef4-a759-d812455419df (1).jpg">
     </div>
 </body>
 </html>
