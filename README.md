@@ -49,7 +49,7 @@
         <p>Hi, Mr. Richard</p>
     </div>
    <div class="pogi">
-        <img src=""C:\Users\DIRK\Downloads\th (1).jpg"">
+        <img src="C:\Users\DIRK\Downloads\th (1).jpg">
         <img src="C:\Users\DIRK\Desktop\Github Portfolio\457422784_1182391752876584_4146896408851820312_n.jpg">
         <img src="C:\Users\DIRK\Desktop\Github Portfolio\458464154_530315806036760_4271058015887137538_n.jpg">
         <img src="C:\Users\DIRK\Desktop\Github Portfolio\458498428_1475435146307420_1095839169639995395_n.jpg">
