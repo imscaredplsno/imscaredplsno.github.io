@@ -46,7 +46,7 @@
 </head>
 <body>
     <div class="name">
-        <p>Hi, Mr. Richard</p>
+        <p>愛してます</p>
     </div>
    <div class="pogi">
         <img src="C:\Users\DIRK\Downloads\th (1).jpg">
